@@ -1,12 +1,11 @@
 import Button from "./Button";
+import "./index.css";
 
 const App = () => {
   return (
     <div>
       <div>
-        <Button primary success>
-          Click Me
-        </Button>
+        <Button>Click Me</Button>
       </div>
       <div>
         <Button>Buy Now</Button>
