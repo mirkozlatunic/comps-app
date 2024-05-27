@@ -1,4 +1,5 @@
 import Button from "./Button";
+import { GoBell, GoCloudDownload, GoDatabase } from "react-icons/go";
 import "./index.css";
 
 const App = () => {
@@ -6,14 +7,19 @@ const App = () => {
     <div>
       <div>
         <Button primary rounded>
+          <GoBell />
           Click Me
         </Button>
       </div>
       <div>
-        <Button secondary>Buy Now</Button>
+        <Button secondary>
+          <GoCloudDownload />
+          Buy Now
+        </Button>
       </div>
       <div>
         <Button outline success>
+          <GoDatabase />
           See Deal
         </Button>
       </div>
