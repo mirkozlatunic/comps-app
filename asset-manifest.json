@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/comps-app/static/css/main.207f27bb.css",
+    "main.js": "/comps-app/static/js/main.ea82aecd.js",
+    "index.html": "/comps-app/index.html",
+    "main.207f27bb.css.map": "/comps-app/static/css/main.207f27bb.css.map",
+    "main.ea82aecd.js.map": "/comps-app/static/js/main.ea82aecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207f27bb.css",
+    "static/js/main.ea82aecd.js"
+  ]
+}
