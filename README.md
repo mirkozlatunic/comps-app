@@ -6,6 +6,8 @@
 <img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs">
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter">
 <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="reacthooksform">
+
+![Comp-app gif](https://github.com/mirkozlatunic/comps-app/assets/110959892/8ed81fdc-f48c-40c8-bcf4-b5f13d525bbe)
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
