@@ -31,7 +31,7 @@ In this project, I used React.js as my main framework and introduced React Route
 
 ## <a name="link-page">🔋 Link to Page</a>
 
-- Live Site URL: [GitHub Page](https://mirkozlatunic.github.io/podcast-page/)
+- Live Site URL: [GitHub Page](https://mirkozlatunic.github.io/comps-app/)
 
 ## <a name="improvements">🛠️ Improvements Ideas</a>
 
